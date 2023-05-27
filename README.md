@@ -4,7 +4,7 @@
 
 <p>Sempre quis entender como as coisas funcionam e como posso contribuir para melhorá-las; foi através dessa curiosidade que cheguei à área de tecnologia. Sou formada em Análise e Desenvolvimento de Sistemas, gosto de desafios e de descobrir como usar a programação para resolvê-los. Atualmente estudo Desenvolvimento Fullstack pelo Programa Desenvolve do Grupo Boticário.</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ellendutra&bg_color=0d1117&color=BA55D3&line=BA55D3&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ellendutra&bg_color=0d1117&color=BA55D3&line=BA55D3&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
