@@ -5,10 +5,6 @@
 <p>Sempre quis entender como as coisas funcionam e como posso contribuir para melhorá-las; foi através dessa curiosidade que cheguei à área de tecnologia. Sou formada em Análise e Desenvolvimento de Sistemas, gosto de desafios e de descobrir como usar a programação para resolvê-los. </p>
 
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ellendutra&bg_color=0d1117&color=BA55D3&line=BA55D3&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ellendutra&show_icons=true&count_private=true&hide_border=true&title_color=BA55D3&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117" alt="Ellen Dutra github stats" /> 
     <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ellendutra&layout=compact&hide_border=true&title_color=BA55D3&text_color=c9d1d9&bg_color=0d1117">
