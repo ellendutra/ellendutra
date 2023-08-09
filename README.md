@@ -2,13 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Ellen.;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<p>Sempre quis entender como as coisas funcionam e como posso contribuir para melhorá-las; foi através dessa curiosidade que cheguei à área de tecnologia. Sou formada em Análise e Desenvolvimento de Sistemas, gosto de desafios e de descobrir como usar a programação para resolvê-los. Atualmente estudo Desenvolvimento Fullstack pelo Programa Desenvolve do Grupo Boticário.</p>
+<p>Sempre quis entender como as coisas funcionam e como posso contribuir para melhorá-las; foi através dessa curiosidade que cheguei à área de tecnologia. Sou formada em Análise e Desenvolvimento de Sistemas, gosto de desafios e de descobrir como usar a programação para resolvê-los. </p>
 
-<p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=22deivfiqr65k4pfeh6ikvzgy&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=22deivfiqr65k4pfeh6ikvzgy&cover_image=true&theme=novatorem&background_color=121212&interchange=false&bar_color=974eb1&bar_color_cover=false" alt="Spotify GitHub Profile">
-    </a>
-</p>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ellendutra&bg_color=0d1117&color=BA55D3&line=BA55D3&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
