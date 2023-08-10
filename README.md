@@ -16,11 +16,18 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=DE4924&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117)&nbsp;
 
 ### Estudando nesse momento:
 
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![StyledComponents](https://img.shields.io/badge/-StyledComponents-0D1117?style=for-the-badge&logo=StyledComponents&labelColor=0D1117)&nbsp;
+![ReactRouter](https://img.shields.io/badge/-ReactRouter-0D1117?style=for-the-badge&logo=ReactRouter&labelColor=0D1117)&nbsp;
+![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=Express&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=footer"/>
