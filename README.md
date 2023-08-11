@@ -24,6 +24,7 @@
 
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=Jest&labelColor=0D1117)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-0D1117?style=for-the-badge&logo=StyledComponents&labelColor=0D1117)&nbsp;
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-0D1117?style=for-the-badge&logo=ReactRouter&labelColor=0D1117)&nbsp;
 ![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
